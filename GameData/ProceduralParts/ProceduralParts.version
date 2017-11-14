@@ -13,11 +13,16 @@
       "BUILD" : 0
    },
    "DOWNLOAD" : "https://github.com/Starwaster/ProceduralParts/releases",
-   "KSP_VERSION" :
+   "KSP_VERSION_MIN" :
+   {
+      "MAJOR" : 1,
+      "MINOR" : 3,
+      "PATCH" : 0
+  },
+   "KSP_VERSION_MAX" :
    {
       "MAJOR" : 1,
       "MINOR" : 3,
       "PATCH" : 1
    }
 }
-
